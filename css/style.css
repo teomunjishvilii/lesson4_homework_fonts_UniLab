@@ -1,0 +1,58 @@
+.georgian_fonts {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.section_1 {
+    margin-top: 20px;
+}
+
+.image {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.text_1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 900px;
+    margin-left: 30px;
+}
+
+.paragraph_1 {
+    font-family: "Arial GEO", sans-serif;
+    font-size: 16px;
+}
+
+.paragraph_2 {
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'BPG Irubaqidze';
+}
+
+.latin_fonts {
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-bottom: 600px;
+}
+
+.section_2 {
+    margin-top: 20px;
+}
+
+.paragraph_3 {
+    font-size: 16px;
+    font-family: 'Viaoda Libre', cursive;
+}
+
+.paragraph_4 {
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: 'Saira Condensed';
+}
+
